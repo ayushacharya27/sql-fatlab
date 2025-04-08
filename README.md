@@ -1,7 +1,5 @@
 # Basic SQL Commands
 
-This is a simple reference for basic Git commands to get you started with version control.
-
 ## Table Creation and alteration
 
 ### Table Creation:
